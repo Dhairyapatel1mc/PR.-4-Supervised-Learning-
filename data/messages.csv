@@ -1,0 +1,501 @@
+message_id,message_text,message_length,word_count,num_urls,num_digits,num_special_chars,spam_keyword_score,legit_keyword_score,sender_activity_score,sender_account_age_days,messages_sent_last_24h,timestamp,hour_of_day,day_of_week,spam_label
+900001,Earn money from home instantly instant cashback limited time!,83,11,0,7,1,85.5,17.2,2.3,6,23,2025-11-22 20:45:00,20,0,1
+900002,Limited offer! Get free gift cards limited time!,75,11,0,0,4,55.9,16.6,1.5,15,19,2025-11-28 15:56:00,15,6,1
+900003,Limited offer! Get free gift cards limited time! https://tinyurl.com/6574,67,11,1,10,0,50.1,3.3,2.2,39,13,2025-12-29 08:52:00,8,5,1
+900004,FREE gift! Click here now before offer expires today!,96,9,0,9,5,79.0,21.7,1.6,46,7,2025-11-07 08:52:00,8,5,1
+900005,Act fast! Your account will be suspended unless you verify now! http://bit.ly/2307,96,12,1,14,5,90.9,4.9,1.1,43,13,2025-11-11 09:44:00,9,4,1
+900006,You've been selected for a cash prize today only! https://tinyurl.com/8573,82,18,1,7,5,62.8,19.4,0.4,3,30,2025-11-17 17:32:00,17,3,1
+900007,WIN BIG! Selected for exclusive cash reward!,75,17,0,10,1,81.0,10.5,2.3,30,9,2025-11-05 15:22:00,15,1,1
+900008,Act fast! Your account will be suspended unless you verify now! https://tinyurl.com/7543,76,10,1,15,0,86.6,21.7,0.6,11,30,2025-11-27 20:38:00,20,4,1
+900009,Earn money from home instantly instant cashback limited time! https://tinyurl.com/8668,118,8,2,3,5,93.7,19.0,2.0,22,8,2025-12-17 16:52:00,16,3,1
+900010,You've been selected for a cash prize today only! http://bit.ly/1053,112,9,2,9,5,72.9,5.8,1.1,11,22,2025-12-06 23:47:00,23,0,1
+900011,You are eligible for a refund of brand new phone today only! http://bit.ly/9005,94,12,1,7,0,58.2,14.6,0.5,47,20,2025-11-21 09:29:00,9,6,1
+900012,Congratulations! You won big click now to claim your prize! http://bit.ly/3103,81,16,1,13,1,96.1,19.1,1.8,46,14,2025-12-15 19:01:00,19,5,1
+900013,Limited offer! Get a brand new phone before it expires! http://bit.ly/9479,79,11,2,2,2,46.2,14.3,1.6,1,7,2025-12-19 08:03:00,8,1,1
+900014,Earn money from home instantly instant cashback limited time!,90,9,0,7,2,81.8,6.1,0.6,37,23,2025-12-12 22:41:00,22,1,1
+900015,FREE gift! Click here now before offer expires today! http://bit.ly/4119,103,13,2,13,3,70.7,18.5,1.8,42,8,2025-11-12 08:40:00,8,3,1
+900016,Limited offer! Get a brand new phone before it expires!,79,11,0,6,4,69.7,11.1,0.9,16,7,2025-11-29 21:50:00,21,6,1
+900017,Congratulations! You won big click now to claim your prize!,54,18,0,0,0,96.0,21.4,0.7,32,20,2025-12-12 13:08:00,13,6,1
+900018,URGENT: Claim your reward now before it expires!,69,14,0,0,3,59.6,19.8,1.3,28,27,2025-11-01 22:25:00,22,1,1
+900019,Act fast! Your account will be suspended unless you verify now! http://bit.ly/4566,88,8,1,1,4,71.2,23.1,1.5,4,21,2025-11-13 09:40:00,9,6,1
+900020,You've been selected for a cash prize today only!,56,18,0,7,3,51.6,22.4,0.8,39,6,2025-11-20 09:20:00,9,3,1
+900021,You are eligible for a refund of brand new phone today only! https://tinyurl.com/4346,78,12,1,12,1,81.9,8.2,1.0,49,7,2025-12-07 07:05:00,7,3,1
+900022,You are eligible for a refund of brand new phone today only!,57,16,0,6,4,59.6,23.4,2.2,16,16,2025-11-08 16:10:00,16,1,1
+900023,FREE gift! Click here now before offer expires today! https://tinyurl.com/1128,61,10,1,8,0,93.9,18.8,0.6,19,24,2025-11-16 13:33:00,13,5,1
+900024,Limited offer! Get a brand new phone before it expires! https://tinyurl.com/9280,80,8,1,2,5,68.3,7.6,0.3,50,9,2025-12-16 15:49:00,15,1,1
+900025,FREE gift! Click here now before offer expires today! http://bit.ly/1158,67,16,2,1,2,77.0,4.6,0.6,20,16,2025-12-24 08:41:00,8,2,1
+900026,Act fast! Your account will be suspended unless you verify now! https://tinyurl.com/6794,67,11,1,5,1,93.5,1.6,1.9,22,30,2025-12-19 20:08:00,20,6,1
+900027,Act fast! Your account will be suspended unless you verify now! https://tinyurl.com/2771,52,15,1,7,1,89.9,12.0,1.0,15,12,2025-12-25 07:38:00,7,5,1
+900028,Act fast! Your account will be suspended unless you verify now! http://bit.ly/6378,83,13,2,12,5,99.0,13.9,2.4,8,13,2025-12-14 12:26:00,12,4,1
+900029,WIN BIG! Selected for exclusive cash reward!,61,17,0,13,2,85.1,8.5,1.6,33,8,2025-12-21 19:20:00,19,4,1
+900030,Act fast! Your account will be suspended unless you verify now! http://bit.ly/1727,114,16,1,6,2,68.7,23.8,2.3,40,15,2025-11-29 10:30:00,10,5,1
+900031,WIN BIG! Selected for exclusive cash reward! https://tinyurl.com/6344,85,16,1,4,1,68.1,23.6,1.8,12,24,2025-12-26 16:47:00,16,3,1
+900032,Congratulations! You won big click now to claim your prize!,86,12,0,6,3,88.2,15.6,1.0,29,19,2025-11-09 13:16:00,13,4,1
+900033,FREE gift! Click here now before offer expires today! https://tinyurl.com/5649,59,11,1,9,1,89.4,4.5,0.4,31,24,2025-11-12 09:43:00,9,3,1
+900034,URGENT: Claim your reward now before it expires! https://tinyurl.com/9099,79,10,1,0,0,87.8,6.3,2.1,45,21,2025-12-08 21:52:00,21,0,1
+900035,Congratulations! You won big click now to claim your prize! http://bit.ly/2988,107,18,1,10,3,78.7,18.3,1.4,36,19,2025-11-21 12:51:00,12,5,1
+900036,FREE gift! Click here now before offer expires today! https://tinyurl.com/5050,114,15,2,7,2,69.2,18.1,0.8,22,15,2025-11-19 09:12:00,9,1,1
+900037,You've been selected for a cash prize today only! http://bit.ly/7275,56,14,1,13,2,74.8,11.0,0.8,27,17,2025-11-06 07:26:00,7,6,1
+900038,You are eligible for a refund of brand new phone today only! https://tinyurl.com/1096,86,14,2,13,4,86.1,14.1,1.6,15,20,2025-11-24 14:11:00,14,2,1
+900039,URGENT: Claim your reward now before it expires! https://tinyurl.com/7371,99,10,2,14,1,98.9,13.8,2.3,38,23,2025-11-26 07:56:00,7,0,1
+900040,URGENT: Claim your reward now before it expires! http://bit.ly/8564,81,14,1,10,1,70.0,9.1,2.2,18,29,2025-11-25 20:53:00,20,2,1
+900041,Earn money from home instantly instant cashback limited time! http://bit.ly/1317,92,11,2,2,5,47.2,1.7,0.8,2,24,2025-12-27 11:36:00,11,1,1
+900042,You've been selected for a cash prize today only! https://tinyurl.com/4571,80,13,2,5,4,78.4,19.0,0.6,11,14,2025-11-15 10:01:00,10,4,1
+900043,Limited offer! Get free gift cards limited time! http://bit.ly/7149,57,17,1,7,0,83.3,8.2,1.8,8,30,2025-12-31 08:01:00,8,2,1
+900044,Congratulations! You won big click now to claim your prize! https://tinyurl.com/2129,49,14,2,15,0,68.8,9.7,2.3,30,27,2025-12-30 11:35:00,11,3,1
+900045,You've been selected for a cash prize today only! https://tinyurl.com/8921,103,17,1,8,2,91.8,20.9,0.5,29,12,2025-12-12 21:39:00,21,4,1
+900046,You are eligible for a refund of brand new phone today only! https://tinyurl.com/1470,89,10,2,15,1,64.5,7.2,0.9,39,27,2025-12-11 15:14:00,15,4,1
+900047,Limited offer! Get free gift cards limited time! https://tinyurl.com/4954,110,16,1,7,5,71.2,18.1,1.3,2,7,2025-12-29 16:05:00,16,1,1
+900048,URGENT: Claim your reward now before it expires! https://tinyurl.com/7046,118,16,1,11,3,99.8,14.2,1.1,30,13,2025-11-30 16:12:00,16,2,1
+900049,Act fast! Your account will be suspended unless you verify now!,72,13,0,3,5,74.5,19.3,0.7,14,28,2025-11-17 22:44:00,22,2,1
+900050,You are eligible for a refund of brand new phone today only! https://tinyurl.com/4180,77,13,1,5,2,45.8,13.8,0.9,4,22,2025-12-25 16:10:00,16,5,1
+900051,You've been selected for a cash prize today only! https://tinyurl.com/1200,108,15,2,14,2,55.1,2.2,2.4,31,8,2025-11-04 09:25:00,9,3,1
+900052,FREE gift! Click here now before offer expires today!,54,10,0,4,4,97.2,3.0,0.8,36,29,2025-12-10 20:27:00,20,4,1
+900053,You are eligible for a refund of brand new phone today only! https://tinyurl.com/7232,104,12,1,13,2,76.3,2.4,2.4,7,29,2025-12-09 13:16:00,13,5,1
+900054,Act fast! Your account will be suspended unless you verify now! http://bit.ly/2330,70,16,1,2,1,45.1,11.8,1.6,19,6,2025-11-10 14:05:00,14,2,1
+900055,WIN BIG! Selected for exclusive cash reward! https://tinyurl.com/4824,73,14,2,3,4,57.4,4.6,0.9,10,7,2025-11-24 08:10:00,8,1,1
+900056,WIN BIG! Selected for exclusive cash reward! https://tinyurl.com/3037,86,14,1,8,4,74.7,11.5,1.6,28,28,2025-12-31 17:36:00,17,4,1
+900057,WIN BIG! Selected for exclusive cash reward!,59,11,0,0,5,90.2,14.8,2.0,12,20,2025-11-08 23:00:00,23,5,1
+900058,FREE gift! Click here now before offer expires today! https://tinyurl.com/8141,59,15,1,11,3,63.3,17.1,2.2,22,18,2025-12-16 22:33:00,22,2,1
+900059,URGENT: Claim your reward now before it expires!,106,9,0,10,2,62.8,24.3,1.2,33,5,2025-11-28 21:49:00,21,3,1
+900060,Limited offer! Get free gift cards limited time! https://tinyurl.com/6927,104,8,1,6,2,75.2,23.3,1.3,45,20,2025-12-29 10:59:00,10,0,1
+900061,You are eligible for a refund of brand new phone today only! http://bit.ly/3594,118,14,1,2,1,99.6,22.9,1.3,8,25,2025-11-30 11:52:00,11,3,1
+900062,WIN BIG! Selected for exclusive cash reward! https://tinyurl.com/8905,79,15,1,4,3,55.5,15.4,1.9,9,7,2025-12-14 15:31:00,15,6,1
+900063,URGENT: Claim your reward now before it expires! http://bit.ly/9318,84,12,1,15,1,69.6,12.6,1.0,49,22,2025-11-08 19:14:00,19,3,1
+900064,Limited offer! Get a brand new phone before it expires! http://bit.ly/4912,100,8,1,10,5,71.0,22.9,1.1,43,30,2025-12-16 11:13:00,11,3,1
+900065,Limited offer! Get free gift cards limited time! http://bit.ly/9229,104,9,1,14,0,84.7,10.8,1.7,10,7,2025-11-13 22:55:00,22,6,1
+900066,WIN BIG! Selected for exclusive cash reward! https://tinyurl.com/2315,116,14,1,10,5,84.5,19.2,2.2,3,24,2025-12-23 09:50:00,9,1,1
+900067,WIN BIG! Selected for exclusive cash reward! http://bit.ly/2480,60,15,1,5,5,61.5,1.7,1.0,4,14,2025-11-18 18:18:00,18,2,1
+900068,URGENT: Claim your reward now before it expires! https://tinyurl.com/9702,120,18,1,5,1,54.6,15.6,1.1,44,12,2025-12-18 22:31:00,22,4,1
+900069,You've been selected for a cash prize today only! https://tinyurl.com/5161,80,18,1,0,3,94.6,17.3,0.6,29,16,2025-11-25 16:08:00,16,5,1
+900070,URGENT: Claim your reward now before it expires! http://bit.ly/8484,97,15,1,3,1,66.0,9.6,1.0,45,14,2025-11-28 07:54:00,7,6,1
+900071,URGENT: Claim your reward now before it expires! https://tinyurl.com/1803,84,11,1,11,1,80.0,15.9,1.8,47,29,2025-11-14 11:38:00,11,5,1
+900072,Earn money from home instantly instant cashback limited time!,87,15,0,1,4,65.1,4.2,2.3,21,28,2025-11-14 20:52:00,20,1,1
+900073,Act fast! Your account will be suspended unless you verify now! https://tinyurl.com/6994,69,12,1,15,2,86.1,9.1,0.6,5,9,2025-11-19 14:46:00,14,6,1
+900074,URGENT: Claim your reward now before it expires! http://bit.ly/2479,81,16,1,3,3,65.3,19.0,0.9,25,25,2025-12-14 18:12:00,18,0,1
+900075,Act fast! Your account will be suspended unless you verify now! http://bit.ly/1410,56,18,2,14,5,61.6,10.8,0.6,3,14,2025-11-27 22:11:00,22,0,1
+900076,Earn money from home instantly instant cashback limited time! https://tinyurl.com/3222,106,13,1,13,4,85.8,4.7,1.2,7,20,2025-11-27 20:50:00,20,2,1
+900077,Limited offer! Get free gift cards limited time! https://tinyurl.com/8264,78,13,1,3,5,65.2,22.6,1.7,4,17,2025-11-10 15:01:00,15,1,1
+900078,Earn money from home instantly instant cashback limited time! http://bit.ly/2501,54,13,2,7,1,88.3,5.9,2.1,36,11,2025-11-19 13:16:00,13,6,1
+900079,Act fast! Your account will be suspended unless you verify now! https://tinyurl.com/1046,66,10,1,8,1,51.0,21.8,0.6,23,30,2025-11-16 14:39:00,14,4,1
+900080,Limited offer! Get a brand new phone before it expires!,70,12,0,1,1,85.8,13.6,1.9,31,19,2025-11-29 18:58:00,18,4,1
+900081,You are eligible for a refund of brand new phone today only!,105,16,0,7,4,47.4,19.8,2.2,34,14,2025-11-16 21:23:00,21,5,1
+900082,Limited offer! Get free gift cards limited time!,109,14,0,13,5,50.9,18.1,1.3,6,15,2025-12-08 11:43:00,11,0,1
+900083,You've been selected for a cash prize today only! https://tinyurl.com/6327,115,12,1,14,4,78.3,3.4,1.8,42,25,2025-12-12 13:29:00,13,3,1
+900084,FREE gift! Click here now before offer expires today! https://tinyurl.com/6553,99,14,1,3,2,68.5,17.0,1.1,10,26,2025-11-06 22:00:00,22,0,1
+900085,Earn money from home instantly instant cashback limited time!,59,14,0,3,5,85.6,20.5,1.5,38,22,2025-12-01 17:08:00,17,5,1
+900086,Earn money from home instantly instant cashback limited time! http://bit.ly/6793,84,17,2,9,2,50.7,13.2,0.6,31,12,2025-12-26 10:20:00,10,2,1
+900087,Congratulations! You won big click now to claim your prize! http://bit.ly/2882,102,16,1,0,4,96.1,20.9,0.9,12,13,2025-12-15 16:25:00,16,2,1
+900088,Limited offer! Get a brand new phone before it expires!,71,10,0,12,0,52.8,16.2,0.4,48,21,2025-12-14 13:13:00,13,3,1
+900089,URGENT: Claim your reward now before it expires! https://tinyurl.com/3578,87,13,2,2,0,53.6,19.1,0.4,6,13,2025-12-16 21:24:00,21,5,1
+900090,URGENT: Claim your reward now before it expires! https://tinyurl.com/7785,75,16,2,3,2,68.6,7.8,1.8,32,21,2025-12-16 16:27:00,16,0,1
+900091,Act fast! Your account will be suspended unless you verify now! http://bit.ly/1897,86,11,2,4,2,60.9,3.9,1.4,28,10,2025-12-18 11:38:00,11,3,1
+900092,Congratulations! You won big click now to claim your prize! http://bit.ly/9196,98,8,1,13,0,70.3,2.9,1.0,28,23,2025-11-17 19:04:00,19,5,1
+900093,URGENT: Claim your reward now before it expires! http://bit.ly/2887,89,10,1,14,5,95.6,3.1,2.2,16,18,2025-11-07 19:35:00,19,4,1
+900094,Earn money from home instantly instant cashback limited time! http://bit.ly/6083,90,10,2,2,4,79.8,13.7,0.7,50,16,2025-11-04 18:03:00,18,5,1
+900095,You've been selected for a cash prize today only! https://tinyurl.com/3399,73,10,1,4,5,49.1,23.8,1.7,30,29,2025-11-22 21:59:00,21,5,1
+900096,You are eligible for a refund of brand new phone today only! https://tinyurl.com/3473,56,15,1,14,5,61.7,7.6,0.4,33,7,2025-11-16 16:30:00,16,3,1
+900097,FREE gift! Click here now before offer expires today!,55,13,0,9,0,80.5,24.5,0.5,39,21,2025-12-29 19:22:00,19,3,1
+900098,You are eligible for a refund of brand new phone today only!,105,17,0,6,2,78.3,13.0,2.4,29,8,2025-12-09 17:42:00,17,5,1
+900099,Earn money from home instantly instant cashback limited time! https://tinyurl.com/5059,104,16,1,5,2,65.5,7.8,1.2,22,26,2025-12-22 08:38:00,8,6,1
+900100,Limited offer! Get a brand new phone before it expires!,90,9,0,12,2,58.9,21.4,2.4,39,9,2025-12-16 17:47:00,17,0,1
+900101,You are eligible for a refund of brand new phone today only! https://tinyurl.com/6082,64,17,1,2,2,75.7,16.4,1.0,9,26,2025-12-22 23:02:00,23,0,1
+900102,URGENT: Claim your reward now before it expires! https://tinyurl.com/6940,71,11,1,10,3,55.6,25.0,0.6,19,30,2025-11-01 10:16:00,10,4,1
+900103,Congratulations! You won big click now to claim your prize!,91,17,0,4,4,65.7,4.9,2.1,50,24,2025-12-03 12:39:00,12,5,1
+900104,FREE gift! Click here now before offer expires today!,100,13,0,7,3,78.6,19.1,2.0,15,22,2025-11-25 14:19:00,14,2,1
+900105,FREE gift! Click here now before offer expires today! https://tinyurl.com/8218,84,14,1,13,1,89.9,20.2,0.6,17,6,2025-11-26 22:42:00,22,6,1
+900106,Limited offer! Get a brand new phone before it expires!,114,9,0,9,0,87.0,7.5,2.3,10,18,2025-11-24 09:08:00,9,1,1
+900107,FREE gift! Click here now before offer expires today! http://bit.ly/1436,98,16,1,11,1,66.2,3.0,0.8,21,8,2025-12-28 17:35:00,17,6,1
+900108,You've been selected for a cash prize today only! https://tinyurl.com/5700,65,15,1,14,4,45.3,2.9,0.9,10,22,2025-11-03 23:37:00,23,3,1
+900109,Earn money from home instantly instant cashback limited time! http://bit.ly/4893,54,11,1,13,5,88.7,12.0,0.5,32,24,2025-11-12 07:16:00,7,5,1
+900110,Congratulations! You won big click now to claim your prize! https://tinyurl.com/5772,48,17,1,11,1,76.4,5.5,1.8,34,16,2025-11-11 09:32:00,9,4,1
+900111,Congratulations! You won big click now to claim your prize!,97,15,0,1,5,66.3,10.0,1.9,23,30,2025-12-02 09:59:00,9,2,1
+900112,Act fast! Your account will be suspended unless you verify now!,90,10,0,1,2,75.0,20.5,0.7,50,26,2025-11-22 21:56:00,21,5,1
+900113,FREE gift! Click here now before offer expires today! https://tinyurl.com/2033,52,12,1,6,0,88.5,22.3,1.0,20,21,2025-11-30 19:08:00,19,6,1
+900114,Congratulations! You won big click now to claim your prize! http://bit.ly/5150,84,13,2,1,5,63.3,4.0,1.1,26,28,2025-11-06 21:20:00,21,3,1
+900115,Limited offer! Get a brand new phone before it expires! https://tinyurl.com/9151,114,12,1,2,5,68.3,11.3,2.5,12,22,2025-12-16 16:33:00,16,2,1
+900116,Earn money from home instantly instant cashback limited time!,89,18,0,9,2,69.5,18.2,0.7,29,16,2025-11-28 21:09:00,21,0,1
+900117,Limited offer! Get a brand new phone before it expires! http://bit.ly/5498,99,13,2,5,0,52.9,15.6,2.0,3,9,2025-11-17 09:07:00,9,1,1
+900118,Limited offer! Get a brand new phone before it expires! http://bit.ly/7272,105,13,1,11,3,87.0,14.8,1.5,26,15,2025-11-21 15:02:00,15,1,1
+900119,Earn money from home instantly instant cashback limited time!,71,15,0,12,4,51.5,19.6,1.8,14,24,2025-11-09 16:31:00,16,5,1
+900120,FREE gift! Click here now before offer expires today! http://bit.ly/3009,105,10,1,14,0,89.6,24.2,2.5,43,16,2025-12-26 09:53:00,9,4,1
+900121,Congratulations! You won big click now to claim your prize! http://bit.ly/5914,94,16,1,7,0,99.2,20.0,0.8,32,5,2025-11-18 18:47:00,18,4,1
+900122,You are eligible for a refund of brand new phone today only! http://bit.ly/8657,56,12,1,12,5,84.5,13.6,2.0,37,7,2025-11-24 11:59:00,11,2,1
+900123,Earn money from home instantly instant cashback limited time! https://tinyurl.com/9476,64,16,2,5,1,68.8,22.9,0.4,8,21,2025-11-28 11:18:00,11,2,1
+900124,You've been selected for a cash prize today only! https://tinyurl.com/4694,114,12,1,2,2,55.8,24.0,0.9,41,14,2025-12-28 09:56:00,9,4,1
+900125,You've been selected for a cash prize today only! http://bit.ly/3804,51,9,1,1,5,87.4,7.4,0.8,37,18,2025-11-17 07:39:00,7,3,1
+900126,Congratulations! You won big click now to claim your prize! http://bit.ly/5949,99,12,1,14,0,82.9,4.8,1.2,30,11,2025-12-24 17:48:00,17,4,1
+900127,You've been selected for a cash prize today only! https://tinyurl.com/6658,64,13,1,3,2,58.3,3.9,1.3,10,8,2025-12-30 08:16:00,8,2,1
+900128,URGENT: Claim your reward now before it expires! https://tinyurl.com/3616,88,11,2,5,3,99.8,12.2,2.2,32,5,2025-12-04 09:20:00,9,3,1
+900129,Congratulations! You won big click now to claim your prize! https://tinyurl.com/4524,54,8,2,9,3,77.9,21.2,1.8,19,22,2025-11-28 07:57:00,7,6,1
+900130,Earn money from home instantly instant cashback limited time! https://tinyurl.com/5333,99,13,2,1,3,47.8,14.5,1.1,19,7,2025-11-11 19:20:00,19,4,1
+900131,FREE gift! Click here now before offer expires today! http://bit.ly/2946,98,13,1,10,4,96.6,19.1,0.7,33,17,2025-12-18 23:31:00,23,0,1
+900132,Limited offer! Get free gift cards limited time!,65,13,0,15,4,70.1,15.6,1.4,21,24,2025-12-19 17:09:00,17,1,1
+900133,URGENT: Claim your reward now before it expires! https://tinyurl.com/9311,120,12,1,15,0,65.3,17.2,2.5,38,14,2025-12-06 07:54:00,7,4,1
+900134,FREE gift! Click here now before offer expires today! https://tinyurl.com/1841,69,16,1,12,1,90.2,6.8,1.6,45,8,2025-12-30 13:42:00,13,0,1
+900135,FREE gift! Click here now before offer expires today! https://tinyurl.com/3481,74,14,1,15,5,85.0,17.9,1.4,36,15,2025-12-11 22:51:00,22,4,1
+900136,URGENT: Claim your reward now before it expires! https://tinyurl.com/8531,117,13,1,8,4,71.6,24.0,0.9,20,12,2025-11-29 16:03:00,16,6,1
+900137,WIN BIG! Selected for exclusive cash reward! https://tinyurl.com/6194,92,16,1,8,2,51.7,17.2,1.1,26,16,2025-11-13 11:09:00,11,2,1
+900138,Limited offer! Get free gift cards limited time! https://tinyurl.com/6674,80,15,1,6,1,90.5,7.5,1.5,18,9,2025-11-04 10:14:00,10,4,1
+900139,You are eligible for a refund of brand new phone today only! http://bit.ly/4972,77,8,1,3,3,63.2,12.3,1.8,9,5,2025-11-12 12:02:00,12,3,1
+900140,FREE gift! Click here now before offer expires today! https://tinyurl.com/5706,84,18,2,1,0,80.9,6.6,1.9,3,10,2025-12-01 20:16:00,20,6,1
+900141,You've been selected for a cash prize today only!,98,15,0,5,5,97.9,23.2,2.2,1,14,2025-11-11 10:45:00,10,2,1
+900142,WIN BIG! Selected for exclusive cash reward! https://tinyurl.com/9590,65,16,2,14,2,55.6,3.7,0.7,30,25,2025-11-30 15:27:00,15,5,1
+900143,You've been selected for a cash prize today only!,91,12,0,6,1,78.6,16.3,1.2,28,21,2025-11-08 17:57:00,17,0,1
+900144,URGENT: Claim your reward now before it expires!,71,10,0,15,2,96.5,1.2,1.1,29,29,2025-12-30 15:31:00,15,2,1
+900145,WIN BIG! Selected for exclusive cash reward!,81,18,0,11,5,58.0,17.0,1.3,11,17,2025-11-03 23:28:00,23,5,1
+900146,WIN BIG! Selected for exclusive cash reward!,85,13,0,7,1,97.7,12.5,1.3,39,16,2025-11-23 20:45:00,20,5,1
+900147,Congratulations! You won big click now to claim your prize! http://bit.ly/9806,58,16,2,14,4,83.7,2.9,1.5,4,22,2025-12-06 23:31:00,23,1,1
+900148,You are eligible for a refund of brand new phone today only! https://tinyurl.com/6375,62,18,1,6,5,77.1,3.2,1.4,4,19,2025-11-30 11:31:00,11,4,1
+900149,URGENT: Claim your reward now before it expires! https://tinyurl.com/8575,50,14,2,8,0,86.0,14.9,0.4,23,27,2025-11-08 09:54:00,9,4,1
+900150,Limited offer! Get free gift cards limited time!,108,8,0,9,3,54.9,4.3,1.7,47,25,2025-12-17 20:55:00,20,2,1
+900151,URGENT: Claim your reward now before it expires! http://bit.ly/7184,117,10,2,11,0,54.8,13.9,1.5,47,12,2025-11-10 07:07:00,7,6,1
+900152,Limited offer! Get free gift cards limited time! https://tinyurl.com/9920,116,14,1,7,1,70.3,4.7,0.7,47,29,2025-11-23 10:05:00,10,0,1
+900153,URGENT: Claim your reward now before it expires!,78,11,0,2,0,77.7,11.7,1.8,4,12,2025-11-14 08:55:00,8,3,1
+900154,FREE gift! Click here now before offer expires today! http://bit.ly/9843,65,16,1,9,1,89.9,18.6,1.0,39,29,2025-11-19 17:11:00,17,1,1
+900155,WIN BIG! Selected for exclusive cash reward! https://tinyurl.com/4621,86,12,1,1,4,97.2,22.1,2.3,41,26,2025-12-24 20:10:00,20,4,1
+900156,FREE gift! Click here now before offer expires today!,92,18,0,12,4,62.5,11.0,0.6,25,10,2025-12-18 22:32:00,22,1,1
+900157,Act fast! Your account will be suspended unless you verify now! http://bit.ly/3365,119,14,1,13,4,74.1,10.3,0.9,22,25,2025-12-23 09:17:00,9,3,1
+900158,Limited offer! Get a brand new phone before it expires!,116,11,0,1,2,65.7,15.5,0.4,5,11,2025-12-07 13:57:00,13,3,1
+900159,Act fast! Your account will be suspended unless you verify now! http://bit.ly/5967,72,9,1,15,1,83.3,17.9,1.2,16,22,2025-12-13 17:37:00,17,6,1
+900160,WIN BIG! Selected for exclusive cash reward! https://tinyurl.com/9743,87,12,2,11,4,93.6,12.2,2.1,47,20,2025-11-14 17:37:00,17,1,1
+900161,Limited offer! Get a brand new phone before it expires! http://bit.ly/7781,66,8,1,8,4,96.4,14.9,1.2,10,11,2025-11-01 17:33:00,17,1,1
+900162,URGENT: Claim your reward now before it expires! https://tinyurl.com/6530,110,18,1,15,3,54.3,20.1,0.7,47,22,2025-12-20 22:36:00,22,1,1
+900163,Congratulations! You won big click now to claim your prize!,115,8,0,2,5,47.7,1.2,0.6,41,12,2025-11-12 09:26:00,9,5,1
+900164,You've been selected for a cash prize today only!,75,16,0,14,2,48.3,16.3,2.4,31,26,2025-12-29 22:04:00,22,0,1
+900165,Limited offer! Get free gift cards limited time! https://tinyurl.com/1274,116,12,2,0,4,89.7,17.2,2.1,12,8,2025-11-16 10:49:00,10,4,1
+900166,You've been selected for a cash prize today only! https://tinyurl.com/9625,93,12,1,12,0,65.5,10.7,1.5,45,12,2025-12-02 16:43:00,16,5,1
+900167,Earn money from home instantly instant cashback limited time!,59,14,0,12,3,75.4,2.3,0.3,11,7,2025-11-07 22:56:00,22,6,1
+900168,URGENT: Claim your reward now before it expires! http://bit.ly/2562,77,11,1,15,2,47.6,2.8,2.3,35,23,2025-11-22 08:01:00,8,1,1
+900169,Limited offer! Get a brand new phone before it expires!,74,17,0,4,5,90.1,23.3,1.0,37,12,2025-11-19 19:43:00,19,5,1
+900170,Congratulations! You won big click now to claim your prize! http://bit.ly/7288,112,13,1,1,0,69.0,21.1,1.0,50,24,2025-12-14 19:07:00,19,6,1
+900171,Limited offer! Get a brand new phone before it expires!,82,15,0,15,1,64.6,23.6,1.3,44,23,2025-11-26 19:23:00,19,0,1
+900172,You are eligible for a refund of brand new phone today only! http://bit.ly/5037,82,10,1,12,5,88.1,4.7,1.2,24,8,2025-12-08 09:59:00,9,0,1
+900173,WIN BIG! Selected for exclusive cash reward! http://bit.ly/6896,64,9,2,5,3,69.7,14.3,1.2,2,7,2025-12-31 18:06:00,18,4,1
+900174,Earn money from home instantly instant cashback limited time! https://tinyurl.com/1202,100,14,1,2,5,94.6,22.7,2.5,37,21,2025-12-24 12:20:00,12,5,1
+900175,URGENT: Claim your reward now before it expires! https://tinyurl.com/5405,82,15,1,4,0,54.2,7.6,1.0,5,16,2025-11-10 15:01:00,15,1,1
+900176,FREE gift! Click here now before offer expires today! http://bit.ly/8501,86,8,1,12,2,91.3,10.1,2.2,29,15,2025-11-06 20:29:00,20,6,1
+900177,You are eligible for a refund of brand new phone today only! http://bit.ly/5922,109,13,1,5,3,98.3,8.0,1.8,32,23,2025-12-24 14:45:00,14,2,1
+900178,URGENT: Claim your reward now before it expires! http://bit.ly/7437,120,11,1,5,5,87.2,1.6,1.9,46,11,2025-12-13 21:30:00,21,6,1
+900179,WIN BIG! Selected for exclusive cash reward!,100,18,0,15,1,79.8,6.8,1.7,46,18,2025-11-30 19:40:00,19,0,1
+900180,FREE gift! Click here now before offer expires today! https://tinyurl.com/9755,117,8,2,11,5,94.3,13.9,1.7,6,8,2025-11-18 14:38:00,14,5,1
+900181,Limited offer! Get a brand new phone before it expires! https://tinyurl.com/7547,103,9,1,0,0,59.2,13.3,1.4,38,27,2025-12-13 14:00:00,14,3,1
+900182,Limited offer! Get a brand new phone before it expires! http://bit.ly/8586,92,8,2,15,0,61.2,23.1,0.5,47,9,2025-11-22 18:02:00,18,2,1
+900183,Limited offer! Get a brand new phone before it expires! https://tinyurl.com/9537,92,15,2,3,3,84.7,11.9,0.4,3,30,2025-12-12 10:39:00,10,0,1
+900184,Limited offer! Get a brand new phone before it expires!,69,11,0,5,4,53.8,14.4,2.4,15,30,2025-12-31 19:28:00,19,5,1
+900185,You've been selected for a cash prize today only! http://bit.ly/8080,73,15,1,13,3,45.2,6.2,0.9,46,30,2025-11-21 09:46:00,9,4,1
+900186,Earn money from home instantly instant cashback limited time! http://bit.ly/6993,106,9,1,8,5,92.4,13.7,1.7,39,17,2025-12-17 19:58:00,19,4,1
+900187,Earn money from home instantly instant cashback limited time! http://bit.ly/6766,86,17,1,2,5,52.4,3.8,1.0,12,16,2025-12-22 11:36:00,11,4,1
+900188,URGENT: Claim your reward now before it expires! https://tinyurl.com/7286,71,15,2,5,4,54.2,7.9,0.7,29,24,2025-11-09 08:13:00,8,6,1
+900189,Limited offer! Get a brand new phone before it expires!,110,10,0,6,3,98.0,13.1,1.4,44,20,2025-12-26 20:03:00,20,5,1
+900190,FREE gift! Click here now before offer expires today! http://bit.ly/3740,76,12,2,1,2,57.4,7.9,2.0,37,28,2025-12-22 22:41:00,22,4,1
+900191,Congratulations! You won big click now to claim your prize!,62,12,0,11,4,90.2,2.0,1.9,35,11,2025-11-19 20:20:00,20,0,1
+900192,Act fast! Your account will be suspended unless you verify now! https://tinyurl.com/8368,92,9,1,14,0,87.7,6.7,2.1,38,27,2025-12-22 18:03:00,18,6,1
+900193,You are eligible for a refund of brand new phone today only! http://bit.ly/3719,74,8,2,11,4,60.5,13.9,1.0,46,14,2025-12-18 16:04:00,16,4,1
+900194,WIN BIG! Selected for exclusive cash reward!,65,14,0,1,2,92.7,4.0,2.2,16,9,2025-12-06 17:38:00,17,6,1
+900195,Act fast! Your account will be suspended unless you verify now! https://tinyurl.com/3329,101,14,2,14,0,79.8,22.1,0.5,33,28,2025-11-25 15:05:00,15,5,1
+900196,Limited offer! Get a brand new phone before it expires! http://bit.ly/8996,59,15,2,11,0,88.8,10.5,2.4,14,20,2025-11-26 15:16:00,15,2,1
+900197,WIN BIG! Selected for exclusive cash reward! https://tinyurl.com/3139,91,18,1,1,0,50.5,19.8,1.3,8,10,2025-11-12 21:15:00,21,3,1
+900198,Limited offer! Get free gift cards limited time! https://tinyurl.com/3161,68,12,2,2,5,64.8,3.0,1.8,42,10,2025-12-20 08:55:00,8,3,1
+900199,WIN BIG! Selected for exclusive cash reward! http://bit.ly/8032,48,11,1,15,0,52.3,6.4,1.8,1,5,2025-11-26 17:05:00,17,6,1
+900200,Earn money from home instantly instant cashback limited time! http://bit.ly/3165,77,14,2,2,5,89.3,3.5,1.1,20,9,2025-11-02 19:54:00,19,6,1
+900201,Can you send the report by end of day? Please confirm. Appreciate it. https://company.portal/docs/9328,57,11,0,1,2,26.3,84.8,53.1,553,4,2025-11-14 07:10:00,7,0,0
+900202,Can you send the report by end of day? Please confirm. Regards.,81,14,0,2,0,9.0,66.9,27.4,391,12,2025-11-25 05:49:00,5,6,0
+900203,Here are the notes from today's discussion. Please confirm. Appreciate it.,89,12,0,2,2,2.4,83.4,76.8,606,7,2025-11-26 08:18:00,8,1,0
+900204,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Regards.",57,14,0,1,1,30.2,61.9,35.6,276,8,2025-12-12 07:48:00,7,0,0
+900205,Please find the attached invoice for Friday evening. Let me know. Regards. https://company.portal/docs/3634,59,9,0,3,2,10.4,71.3,63.7,533,12,2025-12-12 17:09:00,17,0,0
+900206,Payment received successfully for your subscription. Appreciate it. Appreciate it.,76,10,0,1,0,19.0,50.4,54.4,167,5,2025-11-08 18:19:00,18,5,0
+900207,Could you review the document and share feedback? the quarterly review. Regards.,84,10,0,4,0,11.2,73.2,61.8,222,1,2025-12-02 09:51:00,9,5,0
+900208,Please find the attached invoice for the updated proposal. Thanks. Appreciate it.,79,13,0,1,2,27.4,42.5,72.0,130,6,2025-11-28 18:47:00,18,2,0
+900209,Payment received successfully for your subscription. Appreciate it. Regards.,93,10,0,4,1,2.4,80.9,21.7,261,5,2025-12-22 08:58:00,8,4,0
+900210,Let's catch up tomorrow regarding the timeline. Let me know. Appreciate it.,57,9,0,0,0,2.1,48.7,74.4,283,1,2025-11-20 22:57:00,22,6,0
+900211,Thanks for your help on the project update. Let me know. Appreciate it.,83,14,0,0,2,13.4,57.6,73.1,283,4,2025-12-14 21:38:00,21,0,0
+900212,Thanks for your help on the project update. Let me know. Regards.,112,13,0,2,1,3.5,54.7,35.8,398,10,2025-11-09 14:22:00,14,5,0
+900213,Please find the attached invoice for Friday evening. Let me know. Appreciate it.,94,16,0,1,2,31.6,74.4,27.2,106,7,2025-12-13 05:06:00,5,1,0
+900214,Payment received successfully for your subscription. Appreciate it. Thanks.,101,9,0,0,2,13.5,73.0,31.5,310,9,2025-12-24 12:23:00,12,3,0
+900215,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Regards.",66,13,1,1,2,14.8,83.2,42.1,186,10,2025-12-03 08:12:00,8,4,0
+900216,Can you send the report by end of day? Please confirm. Let me know. https://company.portal/docs/9403,60,15,0,1,0,10.6,80.3,74.8,502,12,2025-12-02 15:28:00,15,2,0
+900217,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Thanks.",69,11,0,4,0,5.9,35.7,42.6,516,2,2025-12-27 22:24:00,22,2,0
+900218,Could you review the document and share feedback? the quarterly review. Let me know.,73,10,1,2,2,24.5,27.6,68.5,435,3,2025-12-01 07:17:00,7,5,0
+900219,Could you review the document and share feedback? the quarterly review. Thanks.,60,13,0,1,0,33.3,80.5,48.9,663,4,2025-12-07 08:38:00,8,3,0
+900220,Let's catch up tomorrow regarding the timeline. Let me know. Appreciate it. https://company.portal/docs/1110,110,12,1,3,1,24.2,85.9,15.9,700,5,2025-11-28 07:05:00,7,0,0
+900221,Let's catch up tomorrow regarding the timeline. Let me know. Appreciate it.,85,11,1,2,0,2.0,55.0,21.8,687,7,2025-12-19 17:27:00,17,3,0
+900222,Please find the attached invoice for the updated proposal. Thanks. Let me know.,68,14,0,1,1,10.2,82.4,12.4,351,11,2025-12-22 14:23:00,14,3,0
+900223,Thanks for your help on the project update. Let me know. Let me know. https://company.portal/docs/4683,81,11,0,4,0,22.3,77.1,65.6,491,12,2025-12-10 16:11:00,16,3,0
+900224,Payment received successfully for your subscription. Appreciate it. Let me know.,93,14,0,1,0,11.5,39.2,72.7,387,1,2025-11-28 20:40:00,20,4,0
+900225,Reminder: your appointment is confirmed for next Monday. Thanks. Appreciate it.,63,12,0,2,2,28.7,84.6,13.9,324,10,2025-11-28 17:05:00,17,2,0
+900226,Can you send the report by end of day? Please confirm. Appreciate it.,77,14,0,0,2,24.7,86.6,49.5,676,4,2025-11-03 20:32:00,20,4,0
+900227,Here are the notes from today's discussion. Please confirm. Appreciate it.,62,9,0,1,0,18.7,25.0,74.3,306,3,2025-11-22 15:29:00,15,5,0
+900228,Can you send the report by end of day? Please confirm. Thanks. https://company.portal/docs/2520,94,11,0,4,1,33.6,49.3,75.9,505,10,2025-12-14 08:14:00,8,2,0
+900229,Here are the notes from today's discussion. Please confirm. Thanks. https://company.portal/docs/2680,103,15,0,3,2,11.4,71.0,49.3,465,4,2025-12-12 10:43:00,10,3,0
+900230,Here are the notes from today's discussion. Please confirm. Thanks. https://company.portal/docs/129,101,15,0,4,0,6.8,45.7,66.6,326,11,2025-12-16 08:09:00,8,3,0
+900231,Can you send the report by end of day? Please confirm. Thanks.,72,14,0,1,2,31.0,30.8,59.6,443,8,2025-12-30 05:31:00,5,2,0
+900232,Could you review the document and share feedback? the quarterly review. Appreciate it.,79,13,0,0,0,13.8,72.6,77.8,523,8,2025-12-04 17:40:00,17,2,0
+900233,Payment received successfully for your subscription. Appreciate it. Let me know. https://company.portal/docs/7955,107,12,0,0,0,10.7,45.7,76.6,175,6,2025-12-12 10:33:00,10,3,0
+900234,Can you send the report by end of day? Please confirm. Regards.,114,10,0,4,1,24.8,53.0,55.8,544,3,2025-11-06 06:18:00,6,0,0
+900235,Reminder: your appointment is confirmed for next Monday. Thanks. Appreciate it.,83,13,0,2,0,3.8,50.5,48.5,602,3,2025-11-30 06:27:00,6,2,0
+900236,Please find the attached invoice for the updated proposal. Thanks. Let me know. https://company.portal/docs/9933,87,12,1,1,0,22.5,88.5,43.1,218,5,2025-11-06 17:58:00,17,3,0
+900237,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Thanks. https://company.portal/docs/9014",81,11,0,3,1,6.9,27.9,40.8,369,4,2025-12-22 13:30:00,13,4,0
+900238,Please find the attached invoice for the updated proposal. Thanks. Appreciate it.,99,10,1,2,2,14.8,74.2,25.9,162,7,2025-11-20 21:09:00,21,3,0
+900239,Payment received successfully for your subscription. Appreciate it. Let me know.,72,16,0,3,2,1.7,62.1,46.2,685,11,2025-11-09 09:43:00,9,0,0
+900240,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Appreciate it.",67,12,0,1,0,15.1,89.2,40.5,251,10,2025-12-28 13:19:00,13,2,0
+900241,Let's catch up tomorrow regarding the timeline. Let me know. Regards.,82,14,0,4,1,32.1,25.8,59.0,635,7,2025-12-24 08:15:00,8,3,0
+900242,Can you send the report by end of day? Please confirm. Appreciate it.,94,10,0,4,0,27.6,81.4,71.6,520,5,2025-12-04 17:27:00,17,5,0
+900243,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Let me know. https://company.portal/docs/4612",82,11,0,3,0,14.2,82.1,58.3,150,12,2025-11-19 20:36:00,20,2,0
+900244,Reminder: your appointment is confirmed for next Monday. Thanks. Regards.,107,13,0,3,2,24.1,88.2,26.0,407,12,2025-11-04 19:35:00,19,6,0
+900245,Reminder: your appointment is confirmed for next Monday. Thanks. Thanks.,95,10,0,1,1,26.1,74.4,70.7,157,9,2025-11-05 10:58:00,10,0,0
+900246,Here are the notes from today's discussion. Please confirm. Let me know. https://company.portal/docs/8689,113,9,0,1,0,9.1,54.7,74.3,303,5,2025-11-03 16:32:00,16,6,0
+900247,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Let me know.",64,9,0,3,2,15.9,87.4,43.2,664,6,2025-11-07 16:32:00,16,1,0
+900248,Here are the notes from today's discussion. Please confirm. Regards.,81,9,0,4,0,30.1,67.1,57.4,375,11,2025-11-28 18:26:00,18,4,0
+900249,Please find the attached invoice for the updated proposal. Thanks. Regards.,65,11,0,0,0,9.2,77.3,31.4,381,7,2025-11-07 17:29:00,17,6,0
+900250,Reminder: your appointment is confirmed for next Monday. Thanks. Let me know.,86,13,0,4,1,20.7,25.5,80.0,483,9,2025-12-13 14:46:00,14,2,0
+900251,Let's catch up tomorrow regarding the timeline. Let me know. Let me know. https://company.portal/docs/4629,97,14,0,2,2,25.0,83.0,30.9,253,9,2025-12-07 12:52:00,12,0,0
+900252,Please find the attached invoice for Friday evening. Let me know. Let me know.,100,11,0,3,1,9.5,52.2,37.2,136,10,2025-11-17 11:22:00,11,2,0
+900253,Could you review the document and share feedback? the quarterly review. Let me know.,99,14,0,1,2,30.7,36.8,16.8,231,12,2025-11-17 13:37:00,13,5,0
+900254,Payment received successfully for your subscription. Appreciate it. Appreciate it.,114,14,0,1,1,8.2,81.6,39.4,439,6,2025-11-06 13:49:00,13,4,0
+900255,Here are the notes from today's discussion. Please confirm. Let me know.,87,9,0,4,2,33.1,29.6,72.3,612,2,2025-12-03 17:01:00,17,4,0
+900256,Here are the notes from today's discussion. Please confirm. Let me know. https://company.portal/docs/2570,65,12,0,4,1,5.4,81.1,22.6,182,8,2025-11-08 15:47:00,15,5,0
+900257,Can you send the report by end of day? Please confirm. Thanks.,57,16,0,1,2,26.9,56.8,63.4,190,3,2025-12-13 18:29:00,18,5,0
+900258,Thanks for your help on the project update. Let me know. Let me know.,87,15,1,4,0,25.7,86.8,72.4,643,4,2025-11-12 05:50:00,5,5,0
+900259,Please find the attached invoice for the updated proposal. Thanks. Appreciate it.,113,14,0,0,1,17.9,44.9,14.6,146,5,2025-11-12 14:53:00,14,3,0
+900260,Payment received successfully for your subscription. Appreciate it. Thanks.,100,11,0,3,1,26.4,35.7,73.5,513,1,2025-11-26 12:02:00,12,1,0
+900261,Can you send the report by end of day? Please confirm. Appreciate it.,94,11,1,0,1,30.7,41.6,47.4,149,10,2025-11-06 06:26:00,6,5,0
+900262,Let's catch up tomorrow regarding the timeline. Let me know. Regards. https://company.portal/docs/1997,83,16,0,4,1,16.9,35.0,58.7,109,5,2025-12-27 18:45:00,18,5,0
+900263,Let's catch up tomorrow regarding the timeline. Let me know. Thanks.,101,11,0,0,2,25.3,32.7,18.0,208,8,2025-11-20 11:20:00,11,4,0
+900264,Could you review the document and share feedback? the quarterly review. Thanks.,69,14,0,2,0,1.9,57.3,24.5,592,6,2025-12-08 12:46:00,12,0,0
+900265,Please find the attached invoice for the updated proposal. Thanks. Regards.,110,16,1,0,2,3.1,72.0,73.3,336,8,2025-11-30 14:48:00,14,2,0
+900266,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Regards. https://company.portal/docs/2962",112,9,0,2,2,11.3,73.0,16.6,146,1,2025-12-13 09:28:00,9,5,0
+900267,Can you send the report by end of day? Please confirm. Thanks.,85,13,0,0,1,28.6,36.9,38.1,567,5,2025-12-10 17:51:00,17,5,0
+900268,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Let me know.",108,11,1,0,0,4.1,84.2,43.8,682,11,2025-11-17 19:21:00,19,1,0
+900269,Please find the attached invoice for Friday evening. Let me know. Let me know.,96,9,0,1,1,32.3,32.3,38.8,147,2,2025-12-29 13:55:00,13,5,0
+900270,Reminder: your appointment is confirmed for next Monday. Thanks. Regards.,100,12,0,2,2,18.5,70.5,16.7,354,8,2025-12-22 16:11:00,16,5,0
+900271,Thanks for your help on the project update. Let me know. Appreciate it.,92,9,1,1,2,29.8,80.4,70.9,176,8,2025-11-14 15:11:00,15,1,0
+900272,Reminder: your appointment is confirmed for next Monday. Thanks. Thanks. https://company.portal/docs/3748,92,15,0,1,0,16.3,77.1,41.4,610,8,2025-11-06 15:47:00,15,0,0
+900273,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Regards. https://company.portal/docs/6855",59,9,0,4,2,22.5,82.9,49.4,567,6,2025-12-09 16:16:00,16,6,0
+900274,Please find the attached invoice for the updated proposal. Thanks. Appreciate it.,78,16,0,2,2,16.1,31.3,56.1,102,6,2025-12-26 16:43:00,16,6,0
+900275,Here are the notes from today's discussion. Please confirm. Thanks.,59,11,0,3,0,9.3,37.7,18.5,502,4,2025-11-07 19:27:00,19,6,0
+900276,Could you review the document and share feedback? the quarterly review. Thanks. https://company.portal/docs/6890,59,10,0,3,1,23.2,87.2,19.4,610,1,2025-12-05 21:01:00,21,5,0
+900277,Please find the attached invoice for the updated proposal. Thanks. Let me know.,87,11,0,1,2,28.6,31.7,56.0,429,9,2025-11-01 17:25:00,17,3,0
+900278,Please find the attached invoice for Friday evening. Let me know. Appreciate it.,78,13,0,1,0,14.7,70.5,62.4,406,12,2025-11-08 22:00:00,22,6,0
+900279,Reminder: your appointment is confirmed for next Monday. Thanks. Appreciate it.,96,13,0,1,2,22.9,87.3,45.3,430,12,2025-11-11 08:41:00,8,6,0
+900280,Reminder: your appointment is confirmed for next Monday. Thanks. Let me know.,99,15,0,4,1,30.8,52.5,10.9,209,1,2025-12-01 17:29:00,17,1,0
+900281,Please find the attached invoice for the updated proposal. Thanks. Regards.,105,11,0,2,0,29.5,69.9,30.7,654,1,2025-12-15 16:25:00,16,6,0
+900282,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Regards.",100,12,0,4,1,8.7,76.0,65.9,394,12,2025-12-26 06:42:00,6,3,0
+900283,Thanks for your help on the project update. Let me know. Let me know.,100,14,0,0,0,26.2,38.2,70.8,553,4,2025-12-18 16:38:00,16,6,0
+900284,Please find the attached invoice for Friday evening. Let me know. Appreciate it.,69,13,0,0,0,33.7,72.8,18.4,141,7,2025-12-17 13:31:00,13,4,0
+900285,Here are the notes from today's discussion. Please confirm. Appreciate it.,111,13,1,3,2,32.8,27.6,75.0,152,11,2025-11-20 14:39:00,14,3,0
+900286,Please find the attached invoice for Friday evening. Let me know. Thanks. https://company.portal/docs/5307,90,12,0,4,0,27.6,35.4,48.0,513,2,2025-12-23 16:39:00,16,1,0
+900287,Could you review the document and share feedback? the quarterly review. Thanks.,75,12,0,4,2,16.9,61.5,62.6,109,2,2025-11-24 16:44:00,16,3,0
+900288,Could you review the document and share feedback? the quarterly review. Appreciate it.,100,14,0,0,1,9.4,72.1,11.7,629,6,2025-12-14 21:44:00,21,6,0
+900289,Payment received successfully for your subscription. Appreciate it. Let me know.,75,12,0,0,0,6.3,87.2,47.7,107,11,2025-12-14 07:25:00,7,1,0
+900290,Could you review the document and share feedback? the quarterly review. Let me know.,70,15,0,0,2,24.2,26.5,60.2,138,2,2025-12-22 07:19:00,7,0,0
+900291,Can you send the report by end of day? Please confirm. Thanks.,93,12,0,3,1,16.1,51.3,32.1,498,11,2025-11-06 08:08:00,8,4,0
+900292,Please find the attached invoice for the updated proposal. Thanks. Regards.,94,9,0,0,1,32.5,31.9,65.1,408,10,2025-11-09 07:00:00,7,2,0
+900293,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Let me know.",99,9,0,4,0,5.2,50.4,65.8,658,5,2025-11-13 09:07:00,9,2,0
+900294,Reminder: your appointment is confirmed for next Monday. Thanks. Regards.,92,11,1,0,2,21.1,59.9,76.3,412,4,2025-12-23 16:01:00,16,1,0
+900295,Thanks for your help on the project update. Let me know. Appreciate it.,71,13,0,1,2,28.1,80.4,69.6,662,8,2025-12-15 22:12:00,22,0,0
+900296,Here are the notes from today's discussion. Please confirm. Regards.,69,16,0,2,0,23.7,40.2,30.0,171,4,2025-12-25 15:01:00,15,3,0
+900297,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Thanks.",76,11,0,2,1,33.6,36.0,31.9,326,12,2025-11-14 18:30:00,18,2,0
+900298,Reminder: your appointment is confirmed for next Monday. Thanks. Appreciate it.,78,16,0,2,1,17.3,32.1,55.2,183,5,2025-12-12 09:09:00,9,4,0
+900299,Could you review the document and share feedback? the quarterly review. Thanks.,97,10,0,0,2,22.3,77.8,50.5,317,1,2025-12-12 22:15:00,22,2,0
+900300,Payment received successfully for your subscription. Appreciate it. Let me know.,66,14,0,4,2,30.1,33.7,45.1,192,7,2025-11-28 16:53:00,16,4,0
+900301,Please find the attached invoice for the updated proposal. Thanks. Appreciate it.,108,11,0,1,1,6.0,61.8,49.6,249,12,2025-12-11 20:54:00,20,2,0
+900302,Please find the attached invoice for the updated proposal. Thanks. Appreciate it.,71,10,0,1,0,23.6,58.7,65.4,497,8,2025-12-21 19:34:00,19,0,0
+900303,Please find the attached invoice for the updated proposal. Thanks. Thanks. https://company.portal/docs/8642,97,13,0,2,2,19.3,36.3,55.8,474,10,2025-11-13 07:05:00,7,4,0
+900304,Here are the notes from today's discussion. Please confirm. Let me know.,71,15,0,2,1,27.8,82.7,10.5,242,8,2025-11-20 10:49:00,10,1,0
+900305,Let's catch up tomorrow regarding the timeline. Let me know. Thanks.,68,11,0,0,2,8.4,77.7,60.4,593,11,2025-11-30 20:09:00,20,3,0
+900306,Could you review the document and share feedback? the quarterly review. Appreciate it.,83,9,0,1,2,20.9,33.8,45.9,686,3,2025-12-01 06:27:00,6,1,0
+900307,Here are the notes from today's discussion. Please confirm. Appreciate it.,82,9,0,2,0,8.0,64.4,43.0,593,3,2025-11-02 12:07:00,12,6,0
+900308,Thanks for your help on the project update. Let me know. Appreciate it.,109,11,0,4,1,6.3,69.6,74.6,170,4,2025-11-11 17:57:00,17,3,0
+900309,Can you send the report by end of day? Please confirm. Regards. https://company.portal/docs/8664,112,15,0,4,0,6.6,83.6,52.0,644,9,2025-11-10 08:47:00,8,0,0
+900310,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Appreciate it.",91,9,0,3,2,15.0,81.9,58.8,539,4,2025-12-15 20:28:00,20,6,0
+900311,Thanks for your help on the project update. Let me know. Thanks.,104,10,0,2,1,26.9,84.2,15.9,656,7,2025-12-02 13:30:00,13,1,0
+900312,Please find the attached invoice for the updated proposal. Thanks. Regards.,64,9,0,1,2,28.2,51.6,17.5,536,11,2025-11-02 13:55:00,13,2,0
+900313,Payment received successfully for your subscription. Appreciate it. Let me know.,96,13,0,3,0,14.8,75.9,43.8,479,9,2025-11-29 22:37:00,22,3,0
+900314,Here are the notes from today's discussion. Please confirm. Thanks.,106,15,0,0,2,8.4,75.9,76.4,202,4,2025-11-16 21:12:00,21,3,0
+900315,Reminder: your appointment is confirmed for next Monday. Thanks. Regards.,97,9,0,1,1,32.4,53.3,14.5,327,6,2025-11-19 07:36:00,7,4,0
+900316,Please find the attached invoice for the updated proposal. Thanks. Let me know.,82,13,0,4,0,33.1,78.3,54.8,549,1,2025-12-24 11:53:00,11,6,0
+900317,Payment received successfully for your subscription. Appreciate it. Thanks.,107,12,0,0,1,8.8,25.0,21.0,382,7,2025-11-26 16:03:00,16,5,0
+900318,Thanks for your help on the project update. Let me know. Let me know.,90,9,0,0,0,19.5,72.2,49.1,696,6,2025-11-22 16:00:00,16,6,0
+900319,Here are the notes from today's discussion. Please confirm. Appreciate it.,69,16,0,4,0,9.5,51.5,17.5,174,9,2025-11-07 14:40:00,14,2,0
+900320,Let's catch up tomorrow regarding the timeline. Let me know. Thanks.,109,13,0,3,2,17.2,40.8,33.8,569,11,2025-12-25 19:45:00,19,4,0
+900321,Please find the attached invoice for the updated proposal. Thanks. Let me know. https://company.portal/docs/1206,81,12,0,1,1,14.7,48.0,47.5,369,4,2025-11-28 14:26:00,14,0,0
+900322,Thanks for your help on the project update. Let me know. Thanks. https://company.portal/docs/3024,87,14,0,4,1,6.8,73.5,75.1,294,8,2025-12-25 11:31:00,11,1,0
+900323,Could you review the document and share feedback? the quarterly review. Thanks.,69,12,0,2,0,27.4,32.8,15.5,604,10,2025-12-18 05:37:00,5,6,0
+900324,Payment received successfully for your subscription. Appreciate it. Regards.,80,14,0,4,1,17.4,89.0,74.1,386,7,2025-12-09 12:46:00,12,6,0
+900325,Please find the attached invoice for Friday evening. Let me know. Appreciate it. https://company.portal/docs/7033,87,9,0,3,2,27.3,54.7,18.4,630,8,2025-12-06 15:18:00,15,5,0
+900326,Please find the attached invoice for the updated proposal. Thanks. Regards.,81,10,0,4,1,7.0,42.1,28.9,451,6,2025-11-03 10:31:00,10,3,0
+900327,Thanks for your help on the project update. Let me know. Appreciate it.,105,14,0,3,1,16.1,62.1,78.5,334,2,2025-11-26 13:31:00,13,6,0
+900328,Could you review the document and share feedback? the quarterly review. Let me know.,69,11,0,1,1,28.3,36.5,45.0,629,9,2025-12-03 15:37:00,15,6,0
+900329,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Thanks.",111,9,0,1,0,7.9,41.5,68.7,198,8,2025-12-17 15:39:00,15,2,0
+900330,Reminder: your appointment is confirmed for next Monday. Thanks. Thanks.,108,13,0,3,0,12.6,69.2,52.4,690,10,2025-12-30 22:43:00,22,1,0
+900331,Here are the notes from today's discussion. Please confirm. Thanks.,89,16,0,3,0,13.6,43.6,54.2,248,3,2025-12-28 15:52:00,15,3,0
+900332,Please find the attached invoice for Friday evening. Let me know. Let me know.,61,10,0,1,1,11.4,43.9,28.7,504,5,2025-12-26 19:31:00,19,6,0
+900333,Reminder: your appointment is confirmed for next Monday. Thanks. Let me know.,68,9,1,1,2,9.2,73.4,62.5,315,3,2025-11-15 17:45:00,17,0,0
+900334,Let's catch up tomorrow regarding the timeline. Let me know. Regards.,87,9,1,3,2,26.9,30.4,28.4,259,2,2025-11-04 17:33:00,17,2,0
+900335,Could you review the document and share feedback? the quarterly review. Appreciate it.,85,11,1,1,0,1.7,48.2,74.1,587,8,2025-11-02 22:27:00,22,2,0
+900336,Payment received successfully for your subscription. Appreciate it. Let me know. https://company.portal/docs/8935,68,16,0,4,1,18.6,66.6,31.7,455,8,2025-12-07 22:20:00,22,1,0
+900337,Let's catch up tomorrow regarding the timeline. Let me know. Let me know.,83,13,0,0,0,18.6,74.3,19.5,393,8,2025-12-06 22:04:00,22,0,0
+900338,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Let me know.",106,15,0,4,0,28.0,60.6,23.2,674,7,2025-11-18 17:57:00,17,1,0
+900339,Can you send the report by end of day? Please confirm. Let me know.,71,13,1,1,2,26.9,84.1,66.5,378,5,2025-12-12 22:26:00,22,6,0
+900340,Here are the notes from today's discussion. Please confirm. Let me know.,61,11,1,0,2,16.2,54.4,59.0,603,4,2025-12-27 15:30:00,15,0,0
+900341,Can you send the report by end of day? Please confirm. Regards.,58,11,0,2,1,4.8,53.5,10.6,192,3,2025-11-08 05:31:00,5,3,0
+900342,Could you review the document and share feedback? the quarterly review. Thanks.,107,16,0,3,2,27.8,46.5,69.0,249,1,2025-12-10 13:41:00,13,6,0
+900343,Thanks for your help on the project update. Let me know. Regards.,68,12,0,2,1,29.1,32.9,63.8,354,7,2025-11-23 19:28:00,19,1,0
+900344,Please find the attached invoice for the updated proposal. Thanks. Appreciate it.,106,10,0,1,1,13.9,87.5,75.5,262,11,2025-12-15 06:27:00,6,5,0
+900345,Payment received successfully for your subscription. Appreciate it. Regards.,97,13,0,0,2,8.0,32.3,54.3,432,1,2025-11-02 10:10:00,10,6,0
+900346,Here are the notes from today's discussion. Please confirm. Regards.,72,9,0,4,2,16.9,63.8,36.0,191,4,2025-11-19 10:46:00,10,3,0
+900347,Let's catch up tomorrow regarding the timeline. Let me know. Thanks.,105,9,1,1,2,19.0,32.0,44.1,424,9,2025-11-13 16:30:00,16,6,0
+900348,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Appreciate it. https://company.portal/docs/6289",79,11,0,0,1,24.9,61.3,48.0,601,4,2025-11-23 10:28:00,10,4,0
+900349,Reminder: your appointment is confirmed for next Monday. Thanks. Thanks.,74,11,1,1,1,10.7,42.1,35.7,100,11,2025-11-15 21:32:00,21,3,0
+900350,Can you send the report by end of day? Please confirm. Regards.,80,12,0,0,2,33.9,78.2,23.3,609,9,2025-11-15 09:37:00,9,4,0
+900351,Here are the notes from today's discussion. Please confirm. Thanks.,77,10,1,0,0,29.3,33.4,71.1,306,2,2025-12-29 20:43:00,20,1,0
+900352,Let's catch up tomorrow regarding the timeline. Let me know. Regards.,110,15,0,4,2,24.7,41.6,35.6,172,1,2025-11-22 11:58:00,11,5,0
+900353,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Regards.",97,9,0,3,1,27.9,28.8,53.2,641,1,2025-12-09 07:54:00,7,6,0
+900354,Here are the notes from today's discussion. Please confirm. Regards.,90,10,1,1,2,13.8,37.6,56.0,683,11,2025-12-24 10:45:00,10,4,0
+900355,Payment received successfully for your subscription. Appreciate it. Let me know.,106,14,0,3,0,6.3,36.7,38.1,445,11,2025-12-13 10:29:00,10,4,0
+900356,Please find the attached invoice for Friday evening. Let me know. Let me know.,114,14,0,2,1,14.7,66.2,67.8,431,10,2025-11-09 12:56:00,12,4,0
+900357,Payment received successfully for your subscription. Appreciate it. Appreciate it.,92,13,0,3,1,33.6,25.0,12.4,391,10,2025-11-19 05:46:00,5,4,0
+900358,Can you send the report by end of day? Please confirm. Thanks. https://company.portal/docs/3735,70,14,1,2,2,18.1,62.1,50.0,196,1,2025-12-16 19:24:00,19,2,0
+900359,Can you send the report by end of day? Please confirm. Appreciate it.,113,12,0,2,0,20.2,62.0,25.2,179,12,2025-11-27 15:53:00,15,6,0
+900360,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Appreciate it.",114,10,0,2,0,25.7,62.5,15.5,157,6,2025-12-31 16:43:00,16,6,0
+900361,Thanks for your help on the project update. Let me know. Let me know.,64,12,0,4,0,22.4,66.1,13.8,636,1,2025-12-12 15:47:00,15,4,0
+900362,Please find the attached invoice for Friday evening. Let me know. Appreciate it.,101,12,0,3,1,26.5,62.4,16.3,542,5,2025-11-24 17:50:00,17,1,0
+900363,Can you send the report by end of day? Please confirm. Thanks. https://company.portal/docs/9462,104,9,0,2,0,14.2,53.2,58.9,238,8,2025-12-01 22:51:00,22,1,0
+900364,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Let me know.",69,12,0,2,1,11.7,85.1,16.3,523,7,2025-12-25 16:10:00,16,2,0
+900365,Could you review the document and share feedback? the quarterly review. Thanks.,98,9,0,1,1,21.8,89.4,41.0,249,8,2025-12-10 06:13:00,6,6,0
+900366,Could you review the document and share feedback? the quarterly review. Appreciate it.,66,10,1,0,0,33.2,85.2,70.8,394,1,2025-11-19 15:44:00,15,5,0
+900367,Let's catch up tomorrow regarding the timeline. Let me know. Thanks.,58,14,0,4,0,7.5,59.0,28.1,594,10,2025-12-18 09:05:00,9,5,0
+900368,Please find the attached invoice for the updated proposal. Thanks. Let me know.,99,9,0,0,1,7.4,70.3,29.0,576,11,2025-12-13 05:30:00,5,0,0
+900369,Thanks for your help on the project update. Let me know. Thanks.,115,14,0,0,1,30.4,67.2,26.2,489,9,2025-11-09 08:11:00,8,2,0
+900370,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Regards.",89,16,0,0,0,9.0,59.4,33.3,502,12,2025-11-13 10:10:00,10,0,0
+900371,Reminder: your appointment is confirmed for next Monday. Thanks. Thanks.,76,12,0,4,1,28.5,65.7,71.5,130,9,2025-12-09 13:31:00,13,1,0
+900372,Can you send the report by end of day? Please confirm. Thanks.,99,11,1,3,2,33.6,64.8,53.8,332,7,2025-11-07 12:50:00,12,4,0
+900373,Can you send the report by end of day? Please confirm. Let me know.,115,14,0,1,0,23.0,62.8,57.9,307,3,2025-11-27 14:31:00,14,5,0
+900374,Payment received successfully for your subscription. Appreciate it. Appreciate it.,115,11,0,4,0,11.5,61.2,76.4,221,3,2025-11-20 15:15:00,15,6,0
+900375,Can you send the report by end of day? Please confirm. Regards.,113,15,0,2,1,26.2,78.4,54.6,380,3,2025-11-14 11:35:00,11,0,0
+900376,Can you send the report by end of day? Please confirm. Appreciate it. https://company.portal/docs/4472,95,12,0,1,2,1.4,30.2,64.6,237,9,2025-11-04 20:01:00,20,5,0
+900377,Reminder: your appointment is confirmed for next Monday. Thanks. Appreciate it.,88,16,1,1,0,1.6,74.7,11.1,376,7,2025-11-23 12:56:00,12,5,0
+900378,Could you review the document and share feedback? the quarterly review. Appreciate it. https://company.portal/docs/7297,112,16,0,3,0,15.3,75.5,52.6,489,12,2025-11-17 15:22:00,15,3,0
+900379,Please find the attached invoice for Friday evening. Let me know. Regards.,85,16,0,0,0,18.4,50.7,61.5,671,7,2025-12-14 21:10:00,21,6,0
+900380,Please find the attached invoice for the updated proposal. Thanks. Appreciate it.,82,13,0,2,1,6.2,44.1,74.3,629,3,2025-11-12 19:52:00,19,6,0
+900381,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Regards.",64,11,0,4,0,14.1,46.0,11.7,564,10,2025-12-26 11:57:00,11,3,0
+900382,Let's catch up tomorrow regarding the timeline. Let me know. Thanks.,98,11,0,0,0,4.4,54.2,35.4,636,12,2025-12-03 17:02:00,17,5,0
+900383,Payment received successfully for your subscription. Appreciate it. Appreciate it.,81,9,0,2,2,30.6,81.1,21.3,248,3,2025-12-22 06:04:00,6,3,0
+900384,Here are the notes from today's discussion. Please confirm. Thanks.,85,13,0,0,0,33.6,25.2,63.6,112,8,2025-11-22 20:27:00,20,6,0
+900385,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Regards.",88,12,0,3,1,14.7,30.2,52.0,350,9,2025-11-08 13:39:00,13,4,0
+900386,Payment received successfully for your subscription. Appreciate it. Appreciate it. https://company.portal/docs/2529,60,14,1,0,2,20.4,64.2,33.2,189,1,2025-11-15 08:07:00,8,3,0
+900387,Can you send the report by end of day? Please confirm. Appreciate it.,96,11,0,4,1,32.6,31.1,31.0,477,7,2025-12-06 07:14:00,7,6,0
+900388,Thanks for your help on the project update. Let me know. Regards.,65,10,0,2,1,18.7,59.1,58.7,159,2,2025-12-02 21:16:00,21,0,0
+900389,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Thanks.",111,14,0,4,2,12.7,33.4,49.4,632,12,2025-11-22 20:50:00,20,3,0
+900390,Can you send the report by end of day? Please confirm. Appreciate it.,69,9,1,3,2,28.0,72.9,24.5,524,7,2025-11-23 06:49:00,6,2,0
+900391,Reminder: your appointment is confirmed for next Monday. Thanks. Appreciate it. https://company.portal/docs/3396,101,13,0,0,1,10.9,60.7,63.7,216,11,2025-11-03 15:49:00,15,2,0
+900392,Thanks for your help on the project update. Let me know. Regards.,69,14,0,3,1,28.0,67.0,43.7,571,9,2025-12-27 15:35:00,15,3,0
+900393,Thanks for your help on the project update. Let me know. Regards.,76,14,0,0,0,20.4,46.6,74.1,462,2,2025-11-18 09:57:00,9,2,0
+900394,Please find the attached invoice for the updated proposal. Thanks. Thanks.,97,11,0,3,0,21.0,81.2,62.6,422,12,2025-11-10 06:54:00,6,2,0
+900395,Thanks for your help on the project update. Let me know. Regards.,72,14,0,2,0,18.6,36.4,36.2,138,4,2025-12-15 07:55:00,7,3,0
+900396,Payment received successfully for your subscription. Appreciate it. Regards.,114,11,0,3,2,30.6,45.2,32.9,200,9,2025-12-03 09:38:00,9,1,0
+900397,Please find the attached invoice for the updated proposal. Thanks. Let me know.,112,10,1,0,2,29.8,81.7,33.3,147,2,2025-12-13 21:06:00,21,6,0
+900398,Here are the notes from today's discussion. Please confirm. Regards.,76,12,0,1,1,10.0,45.7,40.9,220,5,2025-12-16 09:03:00,9,1,0
+900399,Here are the notes from today's discussion. Please confirm. Regards. https://company.portal/docs/9268,89,10,0,2,2,11.5,34.2,59.3,390,10,2025-12-30 12:28:00,12,1,0
+900400,Let's catch up tomorrow regarding the timeline. Let me know. Thanks.,78,16,1,0,1,31.7,28.3,36.9,188,7,2025-12-22 17:29:00,17,1,0
+900401,Please find the attached invoice for Friday evening. Let me know. Let me know.,76,14,0,4,0,34.1,74.1,42.6,234,2,2025-12-24 19:48:00,19,0,0
+900402,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Thanks.",102,16,0,1,0,30.2,65.1,73.9,501,3,2025-11-08 15:06:00,15,6,0
+900403,Reminder: your appointment is confirmed for next Monday. Thanks. Let me know.,61,16,1,3,1,29.7,43.3,34.4,688,3,2025-12-21 21:39:00,21,0,0
+900404,Thanks for your help on the project update. Let me know. Regards.,98,10,0,4,1,14.3,51.9,53.5,661,3,2025-12-10 20:50:00,20,3,0
+900405,Let's catch up tomorrow regarding the timeline. Let me know. Thanks.,101,15,0,3,2,27.7,60.4,26.5,179,12,2025-12-25 20:06:00,20,0,0
+900406,Please find the attached invoice for Friday evening. Let me know. Let me know.,63,16,0,3,0,21.1,69.6,51.7,488,6,2025-12-23 20:35:00,20,5,0
+900407,Please find the attached invoice for the updated proposal. Thanks. Regards.,65,9,0,1,1,18.8,50.3,50.5,300,4,2025-11-03 15:32:00,15,2,0
+900408,Please find the attached invoice for Friday evening. Let me know. Thanks.,84,14,0,4,0,21.6,58.2,69.3,401,1,2025-11-07 16:10:00,16,4,0
+900409,Please find the attached invoice for the updated proposal. Thanks. Regards.,109,14,1,2,0,8.6,70.6,37.6,425,12,2025-12-11 17:07:00,17,3,0
+900410,Thanks for your help on the project update. Let me know. Let me know.,99,11,0,1,2,13.8,85.1,68.8,257,5,2025-12-26 09:13:00,9,1,0
+900411,Please find the attached invoice for the updated proposal. Thanks. Regards.,66,16,0,1,0,5.2,77.4,70.2,535,10,2025-12-29 10:23:00,10,3,0
+900412,Payment received successfully for your subscription. Appreciate it. Let me know.,85,15,0,1,1,21.4,62.6,69.3,342,12,2025-11-11 21:46:00,21,2,0
+900413,Thanks for your help on the project update. Let me know. Thanks. https://company.portal/docs/720,93,16,0,0,2,17.1,69.9,19.9,639,5,2025-11-19 19:45:00,19,4,0
+900414,Let's catch up tomorrow regarding the timeline. Let me know. Regards.,97,10,0,4,2,11.3,28.4,34.0,111,8,2025-11-29 19:48:00,19,4,0
+900415,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Thanks.",108,13,0,0,2,32.3,73.7,60.9,677,5,2025-12-03 06:31:00,6,5,0
+900416,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Appreciate it.",99,13,0,4,0,10.4,30.4,45.4,384,5,2025-12-17 09:55:00,9,4,0
+900417,Here are the notes from today's discussion. Please confirm. Thanks.,57,10,0,4,2,5.7,54.0,66.5,367,12,2025-11-07 12:09:00,12,3,0
+900418,Can you send the report by end of day? Please confirm. Regards.,62,11,0,1,1,26.5,51.8,36.8,550,12,2025-12-12 10:23:00,10,1,0
+900419,Please find the attached invoice for Friday evening. Let me know. Thanks. https://company.portal/docs/4431,105,10,1,3,1,16.9,56.0,76.4,645,4,2025-11-22 17:52:00,17,5,0
+900420,Thanks for your help on the project update. Let me know. Let me know.,90,15,1,3,1,23.9,87.5,57.8,142,2,2025-11-09 22:07:00,22,5,0
+900421,Reminder: your appointment is confirmed for next Monday. Thanks. Let me know.,98,13,0,2,0,9.3,63.0,42.3,347,12,2025-12-25 11:12:00,11,4,0
+900422,Reminder: your appointment is confirmed for next Monday. Thanks. Appreciate it.,57,9,0,0,1,3.9,31.8,41.2,324,12,2025-11-29 14:26:00,14,2,0
+900423,Could you review the document and share feedback? the quarterly review. Regards. https://company.portal/docs/1606,60,12,0,0,2,33.5,30.6,52.3,484,11,2025-12-20 10:49:00,10,0,0
+900424,Can you send the report by end of day? Please confirm. Thanks.,99,10,0,2,1,24.4,68.4,63.9,363,3,2025-11-01 07:15:00,7,2,0
+900425,Please find the attached invoice for the updated proposal. Thanks. Let me know.,60,13,0,2,0,15.7,57.0,75.0,502,3,2025-12-24 20:51:00,20,0,0
+900426,Can you send the report by end of day? Please confirm. Let me know.,98,10,0,2,0,1.7,29.6,60.9,556,1,2025-12-01 20:21:00,20,1,0
+900427,Please find the attached invoice for the updated proposal. Thanks. Regards.,74,11,0,3,2,0.6,71.0,64.0,589,7,2025-11-19 17:32:00,17,6,0
+900428,Let's catch up tomorrow regarding the timeline. Let me know. Appreciate it. https://company.portal/docs/7998,64,14,0,2,1,2.4,89.8,55.3,474,9,2025-11-11 15:05:00,15,0,0
+900429,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Thanks.",68,9,0,1,1,24.5,83.3,54.1,467,8,2025-11-18 07:23:00,7,5,0
+900430,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Appreciate it. https://company.portal/docs/3263",58,12,0,0,2,22.7,57.5,77.5,560,1,2025-12-16 06:48:00,6,2,0
+900431,Please find the attached invoice for the updated proposal. Thanks. Thanks.,59,15,1,4,1,32.9,81.6,47.6,693,4,2025-11-27 07:23:00,7,0,0
+900432,Can you send the report by end of day? Please confirm. Let me know.,87,9,0,1,0,6.4,28.2,31.5,199,8,2025-12-11 10:42:00,10,6,0
+900433,Please find the attached invoice for Friday evening. Let me know. Regards.,63,10,0,4,0,2.7,38.2,33.6,511,6,2025-11-16 08:09:00,8,5,0
+900434,Please find the attached invoice for Friday evening. Let me know. Appreciate it.,107,12,0,4,0,12.1,32.8,19.9,525,3,2025-12-19 16:48:00,16,4,0
+900435,Can you send the report by end of day? Please confirm. Let me know.,94,9,1,4,1,27.3,26.0,44.1,106,1,2025-12-04 10:26:00,10,0,0
+900436,Please find the attached invoice for Friday evening. Let me know. Thanks.,108,16,0,1,0,22.6,59.0,38.8,278,10,2025-12-21 06:14:00,6,4,0
+900437,Can you send the report by end of day? Please confirm. Let me know.,62,13,0,0,2,8.6,32.6,47.1,197,10,2025-11-09 16:51:00,16,6,0
+900438,Payment received successfully for your subscription. Appreciate it. Appreciate it.,97,12,0,1,0,28.0,69.5,77.8,585,8,2025-11-28 10:26:00,10,1,0
+900439,Please find the attached invoice for the updated proposal. Thanks. Regards.,75,12,0,2,2,28.3,74.3,13.0,153,9,2025-12-29 10:26:00,10,1,0
+900440,Please find the attached invoice for the updated proposal. Thanks. Let me know.,61,12,0,4,2,11.7,37.9,57.4,433,4,2025-12-28 08:29:00,8,2,0
+900441,Could you review the document and share feedback? the quarterly review. Regards.,83,12,0,1,0,16.7,56.5,72.3,248,4,2025-12-31 19:54:00,19,1,0
+900442,Thanks for your help on the project update. Let me know. Thanks. https://company.portal/docs/3281,97,14,0,1,1,4.9,70.0,14.2,239,2,2025-12-04 19:50:00,19,3,0
+900443,Thanks for your help on the project update. Let me know. Appreciate it.,71,13,0,4,0,20.4,60.9,26.1,521,9,2025-12-14 20:23:00,20,6,0
+900444,Could you review the document and share feedback? the quarterly review. Let me know.,74,9,0,1,0,11.8,62.7,72.4,252,10,2025-12-31 05:01:00,5,3,0
+900445,Please find the attached invoice for the updated proposal. Thanks. Regards.,103,9,0,3,1,28.4,70.3,16.9,607,4,2025-11-29 07:09:00,7,4,0
+900446,Please find the attached invoice for the updated proposal. Thanks. Let me know.,65,14,0,0,0,17.1,44.8,59.2,684,12,2025-12-20 05:00:00,5,3,0
+900447,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Appreciate it.",82,11,0,2,2,16.5,66.2,70.2,172,7,2025-12-16 15:51:00,15,4,0
+900448,Please find the attached invoice for the updated proposal. Thanks. Thanks.,74,12,0,0,2,30.9,72.8,13.8,472,1,2025-12-04 08:04:00,8,3,0
+900449,Reminder: your appointment is confirmed for next Monday. Thanks. Let me know.,80,14,0,4,2,2.8,71.1,24.3,442,4,2025-11-06 22:21:00,22,0,0
+900450,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Appreciate it.",105,12,0,2,2,24.0,43.0,14.4,453,8,2025-11-21 20:25:00,20,4,0
+900451,Payment received successfully for your subscription. Appreciate it. Regards.,91,13,0,2,2,33.1,77.6,75.9,167,4,2025-12-20 19:10:00,19,0,0
+900452,Let's catch up tomorrow regarding the timeline. Let me know. Let me know.,75,10,1,2,0,24.5,57.3,71.2,633,11,2025-11-28 05:03:00,5,2,0
+900453,Thanks for your help on the project update. Let me know. Appreciate it.,83,16,0,0,1,7.0,26.4,66.1,632,11,2025-11-26 15:48:00,15,3,0
+900454,Please find the attached invoice for Friday evening. Let me know. Thanks.,107,14,0,4,2,15.9,44.8,19.2,413,3,2025-11-03 13:42:00,13,1,0
+900455,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Thanks.",106,9,1,2,1,33.5,65.2,21.3,648,5,2025-12-30 10:41:00,10,1,0
+900456,Can you send the report by end of day? Please confirm. Appreciate it.,59,14,0,3,1,13.3,38.3,59.5,424,6,2025-11-10 09:57:00,9,2,0
+900457,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Appreciate it.",64,9,0,3,0,33.2,85.3,20.9,659,9,2025-12-07 15:03:00,15,5,0
+900458,Here are the notes from today's discussion. Please confirm. Let me know.,105,11,0,3,1,24.3,72.6,73.0,242,11,2025-12-11 22:45:00,22,0,0
+900459,Here are the notes from today's discussion. Please confirm. Regards.,110,12,0,0,1,2.4,66.7,50.8,327,5,2025-12-22 11:42:00,11,0,0
+900460,Let's catch up tomorrow regarding the timeline. Let me know. Let me know.,62,15,0,2,2,21.4,86.3,73.6,469,7,2025-12-27 09:33:00,9,5,0
+900461,Thanks for your help on the project update. Let me know. Thanks.,57,13,0,2,1,30.7,30.7,60.9,554,12,2025-11-19 18:26:00,18,6,0
+900462,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Thanks.",103,15,0,3,0,29.3,63.9,20.1,410,8,2025-11-26 21:56:00,21,2,0
+900463,Let's catch up tomorrow regarding the timeline. Let me know. Let me know. https://company.portal/docs/6808,97,13,0,4,1,25.0,74.1,19.6,290,7,2025-12-14 14:44:00,14,4,0
+900464,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Regards.",76,13,0,3,0,1.4,25.2,28.4,583,2,2025-12-06 14:55:00,14,3,0
+900465,Can you send the report by end of day? Please confirm. Let me know.,98,12,1,2,1,34.8,29.3,62.2,695,8,2025-11-20 18:46:00,18,6,0
+900466,Here are the notes from today's discussion. Please confirm. Let me know.,109,10,0,4,0,29.7,35.6,14.1,427,8,2025-12-18 09:20:00,9,2,0
+900467,Can you send the report by end of day? Please confirm. Regards.,83,14,1,2,2,22.5,30.0,23.6,287,2,2025-12-29 10:22:00,10,4,0
+900468,Reminder: your appointment is confirmed for next Monday. Thanks. Thanks.,100,13,0,2,0,18.9,47.9,20.1,240,9,2025-11-01 14:52:00,14,2,0
+900469,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Let me know.",115,11,1,1,2,8.1,37.2,72.8,638,9,2025-11-18 22:57:00,22,5,0
+900470,Let's catch up tomorrow regarding the timeline. Let me know. Let me know.,61,10,0,0,1,12.5,69.9,19.7,552,10,2025-12-04 21:39:00,21,6,0
+900471,Reminder: your appointment is confirmed for next Monday. Thanks. Appreciate it.,58,10,0,1,2,8.3,33.1,19.1,180,7,2025-12-29 08:09:00,8,0,0
+900472,Please find the attached invoice for the updated proposal. Thanks. Let me know.,59,12,1,4,2,2.5,32.7,27.7,167,5,2025-12-15 05:25:00,5,6,0
+900473,Let's catch up tomorrow regarding the timeline. Let me know. Regards.,70,12,0,2,0,3.6,80.0,75.9,693,6,2025-11-29 16:41:00,16,1,0
+900474,Payment received successfully for your subscription. Appreciate it. Appreciate it.,61,10,0,0,2,8.0,37.5,29.7,650,1,2025-11-14 08:56:00,8,1,0
+900475,Payment received successfully for your subscription. Appreciate it. Let me know.,94,11,0,0,0,29.3,88.8,39.7,626,4,2025-12-05 18:39:00,18,0,0
+900476,Reminder: your appointment is confirmed for next Monday. Thanks. Regards.,90,11,0,2,2,10.4,71.9,15.8,605,2,2025-12-21 17:39:00,17,2,0
+900477,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Thanks.",110,16,0,3,1,34.5,52.8,70.0,587,11,2025-12-12 16:28:00,16,1,0
+900478,Please find the attached invoice for the updated proposal. Thanks. Let me know.,82,16,0,0,0,5.4,51.0,51.3,204,12,2025-12-15 10:22:00,10,0,0
+900479,Reminder: your appointment is confirmed for next Monday. Thanks. Appreciate it.,95,15,1,3,2,17.7,74.7,63.6,379,11,2025-12-27 17:51:00,17,2,0
+900480,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Let me know.",89,13,1,3,0,4.7,56.8,26.2,237,1,2025-12-21 08:41:00,8,5,0
+900481,Please find the attached invoice for the updated proposal. Thanks. Regards.,58,11,0,2,0,10.9,65.5,63.2,632,8,2025-11-26 19:49:00,19,1,0
+900482,Here are the notes from today's discussion. Please confirm. Let me know.,73,14,0,4,2,1.1,74.7,79.3,221,7,2025-11-13 19:56:00,19,2,0
+900483,Thanks for your help on the project update. Let me know. Let me know.,59,11,0,2,2,6.2,53.0,31.9,498,8,2025-11-20 08:05:00,8,4,0
+900484,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Let me know.",111,11,0,3,1,17.6,88.1,53.2,461,5,2025-11-03 15:34:00,15,0,0
+900485,Please find the attached invoice for the updated proposal. Thanks. Regards. https://company.portal/docs/6103,79,9,0,2,1,3.9,47.4,35.0,459,1,2025-11-22 12:24:00,12,1,0
+900486,Could you review the document and share feedback? the quarterly review. Thanks.,115,10,0,0,1,6.4,60.0,12.6,532,10,2025-12-17 21:46:00,21,3,0
+900487,Here are the notes from today's discussion. Please confirm. Regards.,94,9,0,3,2,14.0,62.2,66.6,202,12,2025-12-18 11:56:00,11,2,0
+900488,"Hi, can we reschedule our meeting to 10:30 AM. Please confirm. Thanks.",76,14,0,1,1,22.4,88.3,15.3,648,4,2025-11-09 14:33:00,14,2,0
+900489,Please find the attached invoice for the updated proposal. Thanks. Thanks.,82,12,0,0,2,29.6,31.2,33.6,168,10,2025-12-05 21:18:00,21,3,0
+900490,Thanks for your help on the project update. Let me know. Appreciate it.,61,13,0,2,1,23.4,45.4,39.0,357,10,2025-11-14 21:05:00,21,3,0
+900491,Payment received successfully for your subscription. Appreciate it. Appreciate it.,97,11,0,1,2,33.7,73.2,42.7,645,10,2025-12-03 18:35:00,18,4,0
+900492,Please find the attached invoice for the updated proposal. Thanks. Appreciate it.,66,12,0,2,1,14.7,80.9,73.8,308,7,2025-11-20 13:33:00,13,6,0
+900493,Here are the notes from today's discussion. Please confirm. Appreciate it.,95,12,0,0,0,7.1,41.0,67.9,575,8,2025-11-22 22:48:00,22,3,0
+900494,Thanks for your help on the project update. Let me know. Regards.,74,11,1,2,2,19.5,66.9,13.0,597,1,2025-12-11 06:10:00,6,6,0
+900495,Let's catch up tomorrow regarding the timeline. Let me know. Thanks.,112,10,0,3,1,23.7,82.6,37.8,243,4,2025-11-02 08:01:00,8,4,0
+900496,Payment received successfully for your subscription. Appreciate it. Regards.,110,13,0,0,0,21.2,75.3,31.9,698,12,2025-12-27 17:50:00,17,6,0
+900497,Could you review the document and share feedback? the quarterly review. Let me know.,63,11,0,2,1,14.6,81.1,13.9,646,6,2025-12-05 08:37:00,8,2,0
+900498,Payment received successfully for your subscription. Appreciate it. Let me know.,72,13,0,1,1,16.9,48.9,31.6,135,12,2025-11-17 06:15:00,6,5,0
+900499,Could you review the document and share feedback? the quarterly review. Thanks.,76,14,0,0,2,30.4,80.7,37.2,502,5,2025-12-24 14:49:00,14,0,0
+900500,Could you review the document and share feedback? the quarterly review. Thanks.,113,11,0,2,2,14.5,27.2,70.7,603,8,2025-11-20 18:46:00,18,6,0
